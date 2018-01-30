@@ -1,0 +1,56 @@
+- model: books.author
+  pk: 1
+  fields:
+    first_name: Stieg
+    last_name: Larsson
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+- model: books.author
+  pk: 2
+  fields:
+    first_name: Camila
+    last_name: Lackberg
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+- model: books.author
+  pk: 3
+  fields:
+    first_name: George
+    last_name: Martin
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+- model: books.author
+  pk: 4
+  fields:
+    first_name: Howard
+    last_name: Lovercraft
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+- model: books.author
+  pk: 5
+  fields:
+    first_name: Michael
+    last_name: Dobbs
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+- model: books.author
+  pk: 6
+  fields:
+    first_name: Ingar
+    last_name: Johnsrud
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+- model: books.author
+  pk: 7
+  fields:
+    first_name: Ashlee
+    last_name: Vence
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+- model: books.author
+  pk: 8
+  fields:
+    first_name: David
+    last_name: Lagercrantz
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'

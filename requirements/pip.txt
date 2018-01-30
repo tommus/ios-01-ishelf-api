@@ -1,0 +1,10 @@
+django
+django-extensions
+djangorestframework
+djangorestframework-filters
+djangorestframework-jsonp
+djangorestframework-xml
+djangorestframework-yaml
+django-filter
+markdown
+Werkzeug

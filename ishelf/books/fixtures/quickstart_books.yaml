@@ -1,0 +1,548 @@
+- model: books.book
+  pk: 1
+  fields:
+    title: "House of Cards - Bezwzgl\u0119dna gra o w\u0142adz\u0119"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 413
+    description: "FRANCIS dzi\u0119ki swojej przebieg\u0142o\u015Bci i bezwzgl\u0119dnym
+      wybiegom wygra\u0142 wszystko, co na scenie politycznej by\u0142o do wygrania.
+      Dla niego to jednak wci\u0105\u017C za ma\u0142o. Tylko miesi\u0105ce dziel\u0105
+      go od tytu\u0142u najd\u0142u\u017Cej urz\u0119duj\u0105cego premiera Wielkiej
+      Brytanii. Wyniki sonda\u017Cy s\u0105 jednak coraz gorsze. Gro\u017Aba utraty
+      w\u0142adzy staje si\u0119 realna. Francis musi posun\u0105\u0107 si\u0119 dalej
+      ni\u017C kiedykolwiek, by nie utraci\u0107 swojej pozycji. Nawet niebezpieczny
+      pomys\u0142 wywo\u0142ania mi\u0119dzynarodowego konfliktu stanie si\u0119 opcj\u0105
+      wart\u0105 zaryzykowania?\r\n\r\nMroczny thriller polityczny Michaela Dobbsa
+      to trzymaj\u0105ca w napi\u0119ciu opowie\u015B\u0107, kt\xF3ra prze\u015Bwietla
+      uniwersalne mechanizmy w\u0142adzy. Posta\u0107 Francisa Urquada jest pierwowzorem
+      bohatera, kt\xF3rego w serialu tak rewelacyjnie wciela si\u0119 Kevin Spacey.\r\nPOWIE\u015A\u0106,
+      W KT\xD3REJ ZNAJDZIESZ TO, CZEGO NIE ZOBACZYSZ W SERIALU!"
+    isbn: '9788324035656'
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 5
+- model: books.book
+  pk: 2
+  fields:
+    title: "Na\u015Bladowcy"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 504
+    description: "To nie b\u0119dzie
+      proste \u015Bledztwo.\r\n\r\nRozwiedziony, skonfliktowany z prze\u0142o\u017Conym
+      komisarz norweskiej policji Fredrik Beier liczy\u0142 na rutynowe poszukiwania
+      zaginionej kobiety. To, co zasta\u0142 w siedzibie sekty Boskie \u015Awiat\u0142o,
+      bardziej przypomina\u0142o robot\u0119 Charlesa Mansona ni\u017C porwanie.\r\nWraz
+      ze swoj\u0105 partnerk\u0105, Kaf\u0105 Iqbal, trafia w sam \u015Brodek krwawego
+      cyklonu. Kolejne ofiary, tym razem okrutnych eksperyment\xF3w medycznych, prowadz\u0105
+      ich w g\u0142\u0105b mrocznej historii si\u0119gaj\u0105cej czas\xF3w II wojny
+      \u015Bwiatowej.\r\nRozpoczyna si\u0119 polowanie na morderc\u0119 bez twarzy.
+      W g\u0119stej sieci powi\u0105za\u0144 medi\xF3w, polityki i religii my\u015Bliwy
+      staje si\u0119 zwierzyn\u0105 a przyjaciele wrogami.\r\nIngar Johnsrud kopniakiem
+      wywa\u017Ca drzwi do \u015Bwiata skandynawskiego krymina\u0142u i bezczelnie
+      rozsiada si\u0119 w towarzystwie Jo Nesb\xF8 i innych mistrz\xF3w gatunku."
+    isbn: '9788375153897'
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 6
+- model: books.book
+  pk: 3
+  fields:
+    title: "Zgroza w Dunwich i inne przera\u017Caj\u0105ce opowie\u015Bci"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 800
+    description: "Je\u015Bli istnia\u0142a rzecz, kt\xF3rej Howard Phillips
+      Lovecraft nie pomie\u015Bci\u0142by w swej otch\u0142annej wyobra\u017Ani, by\u0142
+      ni\u0105 po\u015Bmiertny los jego w\u0142asnej tw\xF3rczo\u015Bci. Niezauwa\u017Cony
+      za \u017Cycia, dzi\u015B uwa\u017Cany za arcymistrza literatury grozy, \u017Cy\u0142
+      tylko 47 lat. Urodzi\u0142 si\u0119 i zmar\u0142 w Providence, kolebce anglosaskiej
+      Ameryki. By\u0142 erudyt\u0105, staromodnym d\u017Centelmenem, koneserem klasycznej
+      poezji i kolonialnej architektury. Ma\u0142o publikowa\u0142, pisa\u0142 dla
+      przyjemno\u015Bci, ze strace\u0144cz\u0105 nonszalancj\u0105. Uwielbia\u0142
+      koty. Miewa\u0142 koszmarne sny. Swe nieokie\u0142znane fantazje przeku\u0142
+      w stylow\u0105 i obsesyjn\u0105 proz\u0119, kt\xF3ra do dzi\u015B nie przestaje
+      zachwyca\u0107, przera\u017Ca\u0107 i inspirowa\u0107.\r\n\r\nCzytelniku, miej
+      si\u0119 na baczno\u015Bci! Oto pi\u0119tna\u015Bcie najbardziej upiornych opowie\u015Bci
+      wszech czas\xF3w: Zgroza w Dunwich, Zew Cthulhu, Widmo nad Innsmouth, W g\xF3rach
+      szale\u0144stwa, Przypadek Charlesa Dextera Warda, Kolor z innego wszech\u015Bwiata?
+      Wszystkie po raz pierwszy w nowym, wiernym przek\u0142adzie, w pe\u0142ni oddaj\u0105cym
+      elegancj\u0119 i bogactwo stylu Lovecrafta, uzupe\u0142nione obszernym pos\u0142owiem."
+    isbn: '9788377310984'
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 4
+- model: books.book
+  pk: 4
+  fields:
+    title: "Przysz\u0142a na Sarnath zag\u0142ada. Opowie\u015Bci niesamowite
+      i fantastyczne"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 632
+    description: "Przysz\u0142a na Sarnath zag\u0142ada.
+      Opowie\u015Bci niesamowite i fantastyczne to drugi po Zgrozie w Dunwich i innych
+      przera\u017Caj\u0105cych opowie\u015Bciach wyb\xF3r najlepszych utwor\xF3w H.P.
+      Lovecrafta. Tym razem klasycznym opowiadaniom grozy, takim jak Zeznanie Randolpha
+      Cartera, Reanimator Herbert West czy Co\u015B na progu, towarzysz\u0105 utwory
+      fantastyczne, tajemnicze i pi\u0119kne w\u0119dr\xF3wki po krainie sn\xF3w \u2013
+      na czele z kr\xF3tk\u0105 powie\u015Bci\u0105 Ku nieznanemu Kadath \u015Bni\u0105ca
+      si\u0119 w\u0119dr\xF3wka, jednym z najwi\u0119kszych popis\xF3w kosmicznej
+      wyobra\u017Ani pisarza.\r\n\r\nOpowiadania uzupe\u0142nia s\u0142ynny esej Lovecrafta
+      Nadprzyrodzona groza w literaturze, niezr\xF3wnany przewodnik po literackiej
+      grozie, po raz pierwszy z dok\u0142adn\u0105 bibliografi\u0105.\r\nWszystkie
+      utwory w wiernym, znakomitym literacko przek\u0142adzie Macieja P\u0142azy,
+      kt\xF3ry za Zgroz\u0119 w Dunwich i inne przera\u017Caj\u0105ce opowie\u015Bci
+      zosta\u0142 nagrodzony przez \u201ELiteratur\u0119 na \u015Awiecie\u201D. Ksi\u0105\u017Ck\u0119
+      wzbogaca obszerne pos\u0142owie i zdobi\u0105 znakomite ilustracje Krzysztofa
+      Wro\u0144skiego."
+    isbn: 978-83-7731-237-7
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 4
+- model: books.book
+  pk: 5
+  fields:
+    title: "Niemiecki b\u0119kart"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 512
+    description: "Jakie tajemnice
+      z przesz\u0142o\u015Bci mog\u0105 t\u0142umaczy\u0107 dzisiejsze z\u0142e post\u0119pki?
+      Dlaczego matka Eriki Falck w\u015Br\xF3d rupieci na strychu zachowa\u0142a hitlerowski
+      medal? To pytanie nie daje spokoju Erice, kt\xF3ra postanawia odwiedzi\u0107
+      emerytowanego nauczyciela historii, aby dowiedzie\u0107 si\u0119 czego\u015B
+      wi\u0119cej o tym medalu. Jednak m\u0119\u017Cczyzna zachowuje si\u0119 dziwnie,
+      nie potrafi odpowiedzie\u0107 na jej pytania, a dwa dni p\xF3\u017Aniej zostaje
+      zamordowany..."
+    isbn: '9788380155596'
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 2
+- model: books.book
+  pk: 6
+  fields:
+    title: Syrenka
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 512
+    description: "We Fj\xE4llbace w tajemniczych
+      okoliczno\u015Bciach ginie m\u0119\u017Cczyzna. Cztery miesi\u0105ce p\xF3\u017Aniej
+      przypadkowy spacerowicz natrafia na jego zw\u0142oki w skutym lodem jeziorze.
+      Sprawa komplikuje si\u0119 jeszcze bardziej, kiedy znajomy zmar\u0142ego, pisarz
+      Christian Thydell, zaczyna dostawa\u0107 anonimowe pogr\xF3\u017Cki. Zaniepokojony
+      zwierza si\u0119 Erice Falck, a ona pokazuje jeden z list\xF3w Patrikowi. Patrik
+      jest przekonany, \u017Ce Christianowi grozi niebezpiecze\u0144stwo. Kto\u015B
+      szczerze go nienawidzi i nie zawaha si\u0119 spe\u0142ni\u0107 gro\u017Aby.
+      Kiedy znalezione zostaj\u0105 zw\u0142oki kolejnego m\u0119\u017Cczyzny, policja
+      doszukuje si\u0119 wsp\xF3lnego w\u0105tku, a trop prowadzi w przesz\u0142o\u015B\u0107..."
+    isbn: '9788380155596'
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 2
+- model: books.book
+  pk: 7
+  fields:
+    title: Latarnik
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 512
+    description: "Jasna, letnia noc. M\u0142oda
+      kobieta wskakuje do samochodu. Chwyta kierownic\u0119 w zakrwawione d\u0142onie.
+      Wraz z synkiem znajduj\u0105cym si\u0119 na tylnym siedzeniu ucieka do jedynego
+      znanego jej bezpiecznego miejsca \u2212 na wysp\u0119 Gr\xE5sk\xE4r nieopodal
+      Fj\xE4llbacki.\r\nKilka dni p\xF3\u017Aniej w swoim mieszkaniu zostaje zamordowany
+      Mats Sverin, cz\u0142owiek rzetelny i powszechnie lubiany, kt\xF3ry po latach
+      nieobecno\u015Bci powr\xF3ci\u0142 do Fj\xE4llbacki, by zosta\u0107 szefem gminnego
+      wydzia\u0142u finans\xF3w. Inspektor Patrik Hedstr\xF6m i policja w Tanumshede
+      prze\u015Bwietlaj\u0105 jego przesz\u0142o\u015B\u0107 i na jaw wychodz\u0105
+      rozmaite tajemnice. Okazuje si\u0119, \u017Ce m\u0119\u017Cczyzna przed \u015Bmierci\u0105
+      odwiedzi\u0142 Gr\xE5sk\xE4r, czyli Wysp\u0119 Duch\xF3w, jak j\u0105 nazywaj\u0105
+      okoliczni mieszka\u0144cy..."
+    isbn: '9788380155596'
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 2
+- model: books.book
+  pk: 8
+  fields:
+    title: "Fabrykantka anio\u0142k\xF3w"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 512
+    description: "Wielkanoc
+      1974. Z Val\xF6, ma\u0142ej wyspy w pobli\u017Cu Fj\xE4llbacki, znika bez \u015Bladu
+      rodzina. Na pi\u0119knie nakrytym \u015Bwi\u0105tecznym stole zostaje obiad
+      wielkanocny, ale w domu nie ma nikogo, znikaj\u0105 wszyscy z wyj\u0105tkiem
+      rocznej c\xF3reczki Ebby.\r\nPo latach Ebba wraca na wysp\u0119 jako doros\u0142a
+      kobieta. W rodzinnych stronach pragnie wraz z m\u0119\u017Cem otrz\u0105sn\u0105\u0107
+      si\u0119 po \u015Bmierci malutkiego synka. Postanawiaj\u0105 wyremontowa\u0107
+      i otworzy\u0107 dla go\u015Bci stary o\u015Brodek kolonijny, kt\xF3rym wiele
+      lat temu zarz\u0105dza\u0142 surowy ojciec Ebby.\r\nWkr\xF3tce po rozpocz\u0119ciu
+      prac remontowych oboje omal nie gin\u0105 w tajemniczym po\u017Carze. R\xF3wnie
+      tajemnicze s\u0105 stare \u015Blady zaschni\u0119tej krwi odnalezione pod zerwan\u0105
+      pod\u0142og\u0105 w jadalni. Do akcji wkracza Patrik Hedstr\xF6m. Czy zdo\u0142a
+      wyja\u015Bni\u0107 zagadk\u0119 z przesz\u0142o\u015Bci?"
+    isbn: '9788380155596'
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 2
+- model: books.book
+  pk: 9
+  fields:
+    title: "Millennium. M\u0119\u017Cczy\u017Ani, kt\xF3rzy nienawidz\u0105
+      kobiet"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 634
+    description: "Dziennikarz i wydawca magazynu \"Millennium\"
+      Mikael Blomkvist ma przyjrze\u0107 si\u0119 starej sprawie kryminalnej sprzed
+      czterdziestu lat, kiedy znikn\u0119\u0142a bez \u015Bladu Harriet Vanger.\r\n\r\nDo
+      pomocy dostaje Lisbeth Salander, m\u0142oda , intryguj\u0105c\u0105 outsiderk\u0119
+      i genialn\u0105 researcherk\u0119. Blomkvist i Salander tworz\u0105 niezwyk\u0142y
+      team. Wsp\xF3lnie szybko wpadaj\u0105 na trop mrocznej i krwawej historii rodzinnej."
+    isbn: 978-83-7554-097-0
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 1
+- model: books.book
+  pk: 10
+  fields:
+    title: "Millennium. Dziewczyna, kt\xF3ra igra\u0142a z ogniem"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 700
+    description: "W drugim tomie trylogii kryminalnej Millennium \u015Bledzimy dalsze
+      emocjonuj\u0105ce przygody dw\xF3jki bohater\xF3w, Lisbeth Salander i Mikaela
+      Blomkvista, kt\xF3rych losy ponownie si\u0119 splataj\u0105.\r\n\r\nLisbeth
+      na skutek niefortunnego zbiegu okoliczno\u015Bci jest podejrzana o pope\u0142nienie
+      ci\u0119\u017Ckiego przest\u0119pstwa i \u015Bcigana przez policj\u0119.\r\nMikael
+      nie wierzy w jej win\u0119 i zaczyna prowadzi\u0107 w\u0142asne \u015Bledztwo.
+      Zaczyna si\u0119 dramatyczny wy\u015Bcig z czasem..."
+    isbn: 978-83-7554-083-3
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 1
+- model: books.book
+  pk: 11
+  fields:
+    title: "Millennium. Zamek z piasku, kt\xF3ry run\u0105\u0142"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 784
+    description: "Trzecia i ostatnia cz\u0119\u015B\u0107 serii Millennium zaczyna
+      si\u0119 w miejscu, w kt\xF3rym ko\u0144czy si\u0119 \"Dziewczyna, kt\xF3ra
+      igra\u0142a z ogniem\". Lisbeth Salander prze\u017Cywa pr\xF3b\u0119 pogrzebania
+      jej \u017Cywcem. Ale jej k\u0142opoty na tym si\u0119 nie ko\u0144cz\u0105.
+      Mikael Blomkvist si\u0119ga w skrywan\u0105 przesz\u0142o\u015B\u0107 Salander
+      i rusza w pogo\u0144 za prawd\u0105. Pisze wa\u017Cny tekst, kt\xF3ry ma oczy\u015Bci\u0107
+      nazwisko Lisbeth Salander i wywo\u0142a\u0107 trz\u0119sienie ziemi w rz\u0105dzie,
+      s\u0142u\u017Cbach bezpiecze\u0144stwa i ca\u0142ym kraju. Lisbeth Salander
+      w ko\u0144cu ma szans\u0119 pogodzi\u0107 si\u0119 z w\u0142asn\u0105 przesz\u0142o\u015Bci\u0105."
+    isbn: 978-83-7554-084-0
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 1
+- model: books.book
+  pk: 12
+  fields:
+    title: "Elon Musk - Biografia tw\xF3rcy PayPala, Tesli, SpaceX"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 400
+    description: "Bestsellerowa biografia cz\u0142owieka, kt\xF3ry zmienia \u015Bwiat
+      na naszych oczach. W zaktualizowanym wydaniu Ashlee Vance opisuje najnowsze
+      dokonania Elona Muska i ujawnia jego plany na przysz\u0142o\u015B\u0107.\r\n\r\nSteve
+      Jobs chcia\u0142 waszych pieni\u0119dzy. Mark Zuckerberg pragnie wam pom\xF3c
+      udost\u0119pni\u0107 zdj\u0119cia bobas\xF3w. Elon Musk zamierza uratowa\u0107
+      \u015Bwiat przed zag\u0142ad\u0105.\r\nWizjoner, geniusz, niezno\u015Bny szef,
+      najbardziej zuchwa\u0142y przedsi\u0119biorca Doliny Krzemowej, jeden z najbogatszych
+      ludzi na ziemi. Cz\u0142owiek stawiany w jednym szeregu z Thomasem Edisonem,
+      Henrym Fordem i Stevem Jobsem. Ka\u017Cdy start-up w jego r\u0119kach zmienia
+      si\u0119 w z\u0142oto."
+    isbn: 978-83-240-4228-9
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 7
+- model: books.book
+  pk: 13
+  fields:
+    title: Gra o tron
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 841
+    description: "W Zachodnich Krainach o o\u015Bmiu
+      tysi\u0105cach lat zapisanej historii widmo wojen i katastrofy nieustannie wisi
+      nad lud\u017Ami. Zbli\u017Ca si\u0119 zima, lodowate wichry wiej\u0105 z p\xF3\u0142nocy,
+      gdzie schroni\u0142y si\u0119 wyparte przez ludzi pradawne rasy i starzy bogowie.
+      Zbuntowani w\u0142adcy na szcz\u0119\u015Bcie pokonali szalonego Smoczego Kr\xF3la,
+      Aerysa Targaryena, zasiadaj\u0105cego na \u017Belaznym Tronie Zachodnich Krain,
+      lecz obalony w\u0142adca pozostawi\u0142 po sobie potomstwo, r\xF3wnie szalone
+      jak on sam. Tron obj\u0105\u0142 Robert - najznamienitszy z buntownik\xF3w.
+      Min\u0119\u0142y ju\u017C lata pokoju i oto mo\u017Cnow\u0142adcy zaczynaj\u0105
+      gr\u0119 o tron..."
+    isbn: 978-83-7506-729-3
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 3
+- model: books.book
+  pk: 14
+  fields:
+    title: "Starcie kr\xF3l\xF3w"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 1020
+    description: "\u017Belazny
+      Tron jednoczy\u0142 Zachodnie Kr\xF3lestwa a\u017C do \u015Bmierci kr\xF3la
+      Roberta. Wdowa jednak zdradzi\u0142a kr\xF3lewskie idea\u0142y, bracia wszcz\u0119li
+      wojn\u0119, a Sansa zosta\u0142a narzeczon\u0105 mordercy ojca, kt\xF3ry okrzykn\u0105\u0142
+      si\u0119 kr\xF3lem. Zreszt\u0105 w ka\u017Cdym z kr\xF3lestw, od Smoczej Wyspy
+      po Koniec Burzy, dawni wasale \u017Belaznego Tronu og\u0142aszaj\u0105 si\u0119
+      kr\xF3lami. Pewnego dnia z Cytadeli przylatuje bia\u0142y kruk, przynosz\u0105c
+      zapowied\u017A ko\u0144ca lata - najd\u0142u\u017Cszego lata, jakie pami\u0119tali
+      \u017Cyj\u0105cy ludzie. Najgro\u017Aniejszym wrogiem b\u0119dzie jednak zima..."
+    isbn: 978-83-7506-995-2
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 3
+- model: books.book
+  pk: 15
+  fields:
+    title: "Nawa\u0142nica mieczy. Stal i \u015Bnieg"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 736
+    description: "Siedem
+      kr\xF3lestw rozdar\u0142a krwawa wojna, a zima zbli\u017Ca si\u0119 niczym rozw\u015Bcieczona
+      bestia. Ludzie z Nocnej Stra\u017Cy przygotowuj\u0105 si\u0119 na spotkanie
+      z wielkim ch\u0142odem i \u017Cywymi trupami, kt\xF3re mu towarzysz\u0105. Do
+      inwazji na p\xF3\u0142noc, kt\xF3rej \u015Bwie\u017Co wykut\u0105 koron\u0119
+      nosi Robb Stark, szykuje si\u0119 jednak horda g\u0142odnych, dzikich ludzi
+      w\u0142adaj\u0105cych magi\u0105 nawiedzanego pustkowia. Siostry Robba zagin\u0119\u0142y,
+      nie \u017Cyj\u0105 albo w ka\u017Cdej chwili mog\u0105 zgin\u0105\u0107 na rozkaz
+      kr\xF3la Joffreya z rodu Lannister\xF3w. A za morzem ostatnia z Targaryen\xF3w
+      wychowuje smoki, kt\xF3re wyklu\u0142y si\u0119 na pogrzebowym stosie jej m\u0119\u017Ca,
+      gotowa pom\u015Bci\u0107 \u015Bmier\u0107 ojca, ostatniego ze smoczych kr\xF3l\xF3w
+      zasiadaj\u0105cych na \u017Belaznym Tronie."
+    isbn: '9788377852101'
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 3
+- model: books.book
+  pk: 16
+  fields:
+    title: "Nawa\u0142nica mieczy. Krew i z\u0142oto"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 636
+    description: "Dw\xF3ch
+      pretendent\xF3w do w\u0142adzy nie \u017Cyje, a trzeciego wyj\u0119to spod prawa,
+      ale zaciek\u0142e walki nie ustaj\u0105. Joffrey z rodu Lannister\xF3w niepewnie
+      zasiada na \u017Belaznym Tronie, a jego najbardziej nieprzejednany rywal, lord
+      Stannis, pokonany i zha\u0144biony, ulega wp\u0142ywom zazdrosnej czarodziejki.
+      Tymczasem wygnana kr\xF3lowa Daenerys, pani ostatnich trzech smok\xF3w na \u015Bwiecie,
+      w\u0119druje przez krwawi\u0105cy kontynent, zbiera si\u0142y i gromadzi sojusznik\xF3w,
+      pragn\u0105c odzyska\u0107 koron\u0119, kt\xF3r\u0105 uwa\u017Ca za swoj\u0105.
+      Gdy wrogie armie przygotowuj\u0105 si\u0119 do decyduj\u0105cego starcia, zza
+      granic cywilizacji przybywa armia dzikich - barbarzy\u0144c\xF3w pragn\u0105cych
+      podbi\u0107 Siedem Kr\xF3lestw. Za nimi maszeruje horda mitycznych Innych, prowadz\u0105cych
+      armi\u0119 \u017Cywych trup\xF3w... Czwarty sezon serialu HBO ju\u017C w kwietniu!"
+    isbn: 978-83-7785-447-1
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 3
+- model: books.book
+  pk: 17
+  fields:
+    title: "Uczta dla wron. Cienie \u015Bmierci"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 510
+    description: "Po
+      \u015Bmierci kr\xF3la potwora, Joffreya, Cersei przej\u0119\u0142a w\u0142adz\u0119
+      w Kr\xF3lewskiej Przystani. \u015Bmier\u0107 Robba Starka z\u0142ama\u0142a
+      kr\u0119gos\u0142up buntowi p\xF3\u0142nocy, a rodze\u0144stwo M\u0142odego
+      Wilka rozproszy\u0142o si\u0119 po ca\u0142ym kr\xF3lestwie jak nasiona rzucone
+      na ja\u0142ow\u0105 ziemi\u0105. Jednak\u017Ce, jak po ka\u017Cdym wielkim konflikcie,
+      wkr\xF3tce zaczynaj\u0105 si\u0119 zbiera\u0107 niedobitki, banici, renegaci
+      i padlino\u017Cercy, kt\xF3rzy ogryzaj\u0105 ko\u015Bci poleg\u0142ych i \u0142upi\u0105
+      tych, kt\xF3rzy wkr\xF3tce r\xF3wnie\u017C rozstan\u0105 si\u0119 z \u017Cyciem.
+      W Siedmiu Kr\xF3lestwach ludzkie wrony zgromadzi\u0142y si\u0119 na bankiet
+      z popio\u0142\xF3w... To czas, gdy m\u0105drzy i ambitni, podst\u0119pni i silni,
+      zdob\u0119d\u0105 umiej\u0119tno\u015Bci, si\u0142\u0119 i magiczne talenty
+      potrzebne, by prze\u017Cy\u0107 straszliwy okres, jaki ich oczekuje. Czas, w
+      kt\xF3rym szlachetnie urodzeni i pro\u015Bci ludzie, \u017Co\u0142nierze i czarodzieje,
+      skrytob\xF3jcy i m\u0119drcy musz\u0105 po\u0142\u0105czy\u0107 si\u0142y, poniewa\u017C
+      na uczcie dla wron jest wielu go\u015Bci, ale tylko nieliczni ujd\u0105 z niej
+      z \u017Cyciem..."
+    isbn: 978-83-7506-988-4
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 3
+- model: books.book
+  pk: 18
+  fields:
+    title: "Uczta dla wron. Sie\u0107 spisk\xF3w"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 526
+    description: "Wojna
+      pi\u0119ciu kr\xF3l\xF3w zbli\u017Ca si\u0119 powoli do ko\u0144ca, a Lannisterowie
+      i ich sojusznicy uwa\u017Caj\u0105 si\u0119 za zwyci\u0119zc\xF3w. Jednak\u017Ce
+      nie wszystko w kraju idzie dobrze. Rozdarte wojn\u0105 kr\xF3lestwo staje na
+      progu pokoju tylko po to, by wkroczy\u0107 na \u015Bcie\u017Ck\u0119 wiod\u0105c\u0105
+      ku jeszcze straszliwszym zniszczeniom.\r\n\r\nPo \u015Bmierci kr\xF3la potwora,
+      Joffreya, w\u0142adz\u0119 w Kr\xF3lewskiej Przystani przej\u0119\u0142a Cersei.
+      \u015Bmier\u0107 Robba Starka z\u0142ama\u0142a kr\u0119gos\u0142up buntowi
+      p\xF3\u0142nocy, a rodze\u0144stwo M\u0142odego Wilka rozproszy\u0142o si\u0119
+      po ca\u0142ym kr\xF3lestwie. Jest jeszcze kilka innych os\xF3b mog\u0105cych
+      ro\u015Bci\u0107 sobie pretensje do \u017Belaznego Tronu, ale s\u0105 one zbyt
+      s\u0142abe lub przebywaj\u0105 za daleko, by mog\u0142y stanowi\u0107 realne
+      zagro\u017Cenie. Jak po ka\u017Cdym wielkim konflikcie, wkr\xF3tce zaczynaj\u0105
+      si\u0119 te\u017C zbiera\u0107 niedobitki, banici, renegaci i padlino\u017Cercy,
+      kt\xF3rzy ogryzaj\u0105 ko\u015Bci poleg\u0142ych i \u0142upi\u0105 tych, kt\xF3rzy
+      wkr\xF3tce r\xF3wnie\u017C rozstan\u0105 si\u0119 z \u017Cyciem. W Siedmiu Kr\xF3lestwach
+      ludzkie wrony zgromadzi\u0142y si\u0119 na bankiet z popio\u0142\xF3w..."
+    isbn: 978-83-7506-990-7
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 3
+- model: books.book
+  pk: 19
+  fields:
+    title: "Taniec ze smokami. Cz\u0119\u015B\u0107\_2"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 684
+    description: "W
+      Meereen otoczona przez wrog\xF3w Daenerys Targaryen chwyta si\u0119 rozpaczliwych
+      \u015Brodk\xF3w, by zachowa\u0107 swoj\u0105 pozycj\u0119. Wielu zabiega o jej
+      wzgl\u0119dy, lecz ostrzegano j\u0105, by nie ufa\u0142a nikomu...\r\n\r\nW
+      Kr\xF3lewskiej Przystani kr\xF3lowa regentka, Cersei Lannister, oczekuje na
+      proces, porzucona przez tych, kt\xF3rym ufa\u0142a, podczas gdy w po\u0142o\u017Conym
+      na wschodzie mie\u015Bcie Yunkai jej brat Tyrion zosta\u0142 sprzedany w niewol\u0119
+      i jest zmuszony na w\u0142asn\u0105 r\u0119k\u0119 szuka\u0107 wyj\u015Bcia
+      z opresji."
+    isbn: 978-83-7785-887-5
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 3
+- model: books.book
+  pk: 20
+  fields:
+    title: "Taniec ze smokami. Cz\u0119\u015B\u0107\_1"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 628
+    description: "Na
+      wschodzie Daenerys Targaryen, ostatnia z rodu Targaryen\xF3w, w\u0142ada przy
+      pomocy swych trzech smok\xF3w miastem zbudowanym na marzeniach i pyle. Daenerys
+      ma jednak tysi\u0105ce wrog\xF3w i wielu z nich postanowi\u0142o j\u0105 odnale\u017A\u0107...\r\nTyrion
+      Lannister, uciek\u0142szy z Westeros, gdy wyznaczono nagrod\u0119 za jego g\u0142ow\u0119,
+      r\xF3wnie\u017C zmierza do Daenerys. Jego nowi towarzysze podr\xF3\u017Cy nie
+      s\u0105 jednak obdart\u0105 band\u0105 wyrzutk\xF3w, jak\u0105 mogliby si\u0119
+      wydawa\u0107, a jeden z nich mo\u017Ce na zawsze pozbawi\u0107 Daenerys praw
+      do westeroskiego tronu...P\xF3\u0142nocy broni gigantyczny Mur z lodu i kamienia.
+      Tam w\u0142a\u015Bnie przed Jonem Snow, dziewi\u0119\u0107set dziewi\u0119\u0107dziesi\u0105tym
+      \xF3smym lordem dow\xF3dc\u0105 Nocnej Stra\u017Cy, stanie najpowa\u017Cniejsze
+      jak dot\u0105d wyzwanie. Ma bowiem pot\u0119\u017Cnych wrog\xF3w nie tylko w
+      samej Stra\u017Cy, lecz r\xF3wnie\u017C poza ni\u0105, po\u015Br\xF3d lodowych
+      istot mieszkaj\u0105cych za Murem...Wsz\u0119dzie narastaj\u0105 gwa\u0142towne
+      konflikty, w kt\xF3rych uczestnicz\u0105 banici i kap\u0142ani, \u017Co\u0142nierze
+      i zmiennokszta\u0142tni, szlachetnie urodzeni i niewolnicy."
+    isbn: 978-83-7785-885-1
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 3
+- model: books.book
+  pk: 21
+  fields:
+    title: Co nas nie zabije
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 499
+    description: "Co nas nie zabije \u2013
+      kontynuacja trylogii Millennium Stiega Larssona napisana przez Davida Lagercrantza.\r\nMikael
+      Blomkvist przechodzi kryzys i rozwa\u017Ca porzucenie zawodu dziennikarza \u015Bledczego.
+      Lisbeth Salander podejmuje du\u017Ce ryzyko i bierze udzia\u0142 w zorganizowanym
+      ataku haker\xF3w. Ich drogi krzy\u017Cuj\u0105 si\u0119, kiedy profesor Balder,
+      ekspert w dziedzinie bada\u0144 nad sztuczn\u0105 inteligencj\u0105, prosi Mikaela
+      o pomoc. Profesor posiada szokuj\u0105ce informacje na temat dzia\u0142alno\u015Bci
+      ameryka\u0144skich s\u0142u\u017Cb specjalnych. Mikael bez wahania leci do Doliny
+      Krzemowej zbiera\u0107 materia\u0142y do sensacyjnego tekstu, kt\xF3ry nie tylko
+      mo\u017Ce uratowa\u0107 jego karier\u0119, ale te\u017C wp\u0142yn\u0105\u0107
+      na losy ca\u0142ego \u015Bwiata."
+    isbn: 978-83-8015-049-2
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 8
+- model: books.book
+  pk: 22
+  fields:
+    title: "M\u0119\u017Cczyzna, kt\xF3ry goni\u0142 sw\xF3j cie\u0144"
+    subtitle: ""
+    published: '2018-01-29T00:43:01Z'
+    regular_price: 19.99
+    discount_price: 19.99
+    pages: 424
+    description: "Lisbeth Salander, dziewczyna, kt\xF3ra igra\u0142a z ogniem, nigdy
+      w pe\u0142ni nie odkry\u0142a, kto sta\u0142 za koszmarem jej dzieci\u0144stwa.
+      Gdy Holger Palmgren opowiada jej o starych dokumentach, Lisbeth czuje, \u017Ce
+      nareszcie ma szans\u0119 pozna\u0107 ca\u0142\u0105 prawd\u0119 o machinie,
+      kt\xF3ra zniszczy\u0142a jej rodzin\u0119. Jednak im bli\u017Cej jest rozwi\u0105zania
+      tajemnicy, tym wi\u0119ksze grozi jej niebezpiecze\u0144stwo. Wraz z Mikaelem
+      Blomkvistem dotrze tam, gdzie szale\u0144stwo naukowca i brutalne nadu\u017Cycia
+      w\u0142adzy splot\u0142y si\u0119 w jedno. Nie wszyscy wyjd\u0105 z tego ca\u0142o.\r\n\r\nM\u0119\u017Cczyzna,
+      kt\xF3ry goni\u0142 sw\xF3j cie\u0144, pi\u0105ta ksi\u0105\u017Cka w serii
+      \u201EMillennium\u201D, to z\u0142o\u017Cona i wci\u0105gaj\u0105ca powie\u015B\u0107
+      osnuta wok\xF3\u0142 kwestii honoru, tajemnic bada\u0144 genetycznych i zaawansowanych
+      atak\xF3w hakerskich \u2013 wsp\xF3\u0142czesnego sposobu prowadzenia wojny.
+      To tak\u017Ce wyja\u015Bnienie zagadki, sk\u0105d si\u0119 wzi\u0105\u0142 i
+      co oznacza s\u0142ynny tatua\u017C ze smokiem."
+    isbn: 978-83-8015-792-7
+    created_at: '2018-01-29T00:43:01Z'
+    updated_at: '2018-01-29T00:43:01Z'
+    author: 8

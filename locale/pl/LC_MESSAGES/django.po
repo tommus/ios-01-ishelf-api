@@ -1,0 +1,116 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-30 14:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n"
+"%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n"
+"%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: itshelf/books/models.py:29
+msgid "First name"
+msgstr "Imię"
+
+#: itshelf/books/models.py:30
+msgid "Last name"
+msgstr "Nazwisko"
+
+#: itshelf/books/models.py:31 itshelf/books/models.py:53
+msgid "Active"
+msgstr "Aktywny"
+
+#: itshelf/books/models.py:32 itshelf/books/models.py:54
+msgid "Created at"
+msgstr "Utworzony"
+
+#: itshelf/books/models.py:33 itshelf/books/models.py:55
+msgid "Updated at"
+msgstr "Zaktualizowany"
+
+#: itshelf/books/models.py:40 itshelf/books/models.py:56
+msgid "Author"
+msgstr "Autor"
+
+#: itshelf/books/models.py:41
+msgid "Authors"
+msgstr "Autorzy"
+
+#: itshelf/books/models.py:45
+msgid "Title"
+msgstr "Tytuł"
+
+#: itshelf/books/models.py:46
+msgid "Subtitle"
+msgstr "Podtytuł"
+
+#: itshelf/books/models.py:47
+msgid "Published"
+msgstr "Opublikowany"
+
+#: itshelf/books/models.py:48
+msgid "Regular price"
+msgstr "Cena regularna"
+
+#: itshelf/books/models.py:49
+msgid "Discount price"
+msgstr "Cena ze zniżką"
+
+#: itshelf/books/models.py:50
+msgid "Description"
+msgstr "Opis"
+
+#: itshelf/books/models.py:51
+msgid "ISBN"
+msgstr "ISBN"
+
+#: itshelf/books/models.py:52
+msgid "Pages"
+msgstr "Strony"
+
+#: itshelf/books/models.py:64 itshelf/books/models.py:69
+#: itshelf/books/models.py:83
+msgid "Book"
+msgstr "Książka"
+
+#: itshelf/books/models.py:65
+msgid "Books"
+msgstr "Książki"
+
+#: itshelf/books/models.py:70 itshelf/books/models.py:84
+msgid "User"
+msgstr "Użytkownik"
+
+#: itshelf/books/models.py:78
+#| msgid "Book"
+msgid "Bookmark"
+msgstr "Zakładka"
+
+#: itshelf/books/models.py:79
+#| msgid "Books"
+msgid "Bookmarks"
+msgstr "Zakładki"
+
+#: itshelf/books/models.py:85
+msgid "score"
+msgstr "ocena"
+
+#: itshelf/books/models.py:93
+msgid "Score"
+msgstr "Ocena"
+
+#: itshelf/books/models.py:94
+msgid "Scores"
+msgstr "Oceny"
