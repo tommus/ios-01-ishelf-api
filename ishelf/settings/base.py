@@ -115,7 +115,7 @@ REST_FRAMEWORK = {
 
     # Defines default authentication method.
     'DEFAULT_AUTHENTICATION_CLASSES': (
-        'ishelf.authentication.authentication.BearerAuthentication',
+        'ishelf.authentication.BearerAuthentication',
     ),
 
     # Enables path filters.
