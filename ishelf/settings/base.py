@@ -40,8 +40,10 @@ INSTALLED_APPS = [
     'django_extensions',
     'django_filters',
     'rest_framework',
+    'rest_framework.authtoken',
     'rest_framework_swagger',
-    'ishelf.books',
+    'ishelf.authentication.apps.AuthenticationConfig',
+    'ishelf.books.apps.BooksConfig',
 ]
 
 # Middleware (security, session, localization, authentication, etc.).
@@ -109,6 +111,11 @@ REST_FRAMEWORK = {
     # Configures this API is closed and required authentication.
     'DEFAULT_PERMISSION_CLASSES': (
         'rest_framework.permissions.IsAuthenticated',
+    ),
+
+    # Defines default authentication method.
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'ishelf.authentication.authentication.BearerAuthentication',
     ),
 
     # Enables path filters.

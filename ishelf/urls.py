@@ -3,6 +3,7 @@ from django.conf.urls import include, url
 from django.conf.urls.static import static
 from django.contrib import admin
 from rest_framework import routers
+from rest_framework.authtoken import views
 from rest_framework_swagger.views import get_swagger_view
 
 from ishelf.books.views import (
@@ -21,7 +22,8 @@ router.register(r'books/rates', BookRateViewSet)
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^api/', include(router.urls)),
-    url(r'^api/docs/', get_swagger_view(title='iShelf API'))
+    url(r'^api/docs/', get_swagger_view(title='iShelf API')),
+    url(r'^api/token/', views.obtain_auth_token),
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
