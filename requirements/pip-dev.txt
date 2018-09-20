@@ -1,0 +1,17 @@
+# region Django
+
+django-extensions
+
+# endregion
+
+# region Documentation
+
+django-rest-swagger
+
+# endregion
+
+# region Load Content
+
+pyyaml
+
+# endregion

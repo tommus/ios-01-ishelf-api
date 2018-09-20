@@ -1,10 +1,21 @@
+# region Base packages
+
+pip==18.*
+
+# endregion
+
+# region Django
+
 django
-django-extensions
 djangorestframework
-djangorestframework-filters
-djangorestframework-jsonp
-djangorestframework-xml
-djangorestframework-yaml
 django-filter
+
+# endregion
+
+# region Miscellaneous
+
 markdown
+Pillow
 Werkzeug
+
+# endregion

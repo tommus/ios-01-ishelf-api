@@ -24,6 +24,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 5
+    cover: "covers/house_of_cards_bezwzgledna_gra_o_wladze.jpg"
 - model: books.book
   pk: 2
   fields:
@@ -50,6 +51,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 6
+    cover: "covers/nasladowcy.jpg"
 - model: books.book
   pk: 3
   fields:
@@ -79,6 +81,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 4
+    cover: "covers/zgroza_z_dunwich.jpg"
 - model: books.book
   pk: 4
   fields:
@@ -109,6 +112,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 4
+    cover: "covers/przyszla_na_sarnath_zaglada.jpg"
 - model: books.book
   pk: 5
   fields:
@@ -130,6 +134,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 2
+    cover: "covers/niemiecki_bekart.jpg"
 - model: books.book
   pk: 6
   fields:
@@ -153,6 +158,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 2
+    cover: "covers/syrenka.jpg"
 - model: books.book
   pk: 7
   fields:
@@ -178,6 +184,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 2
+    cover: "covers/latarnik.jpg"
 - model: books.book
   pk: 8
   fields:
@@ -204,6 +211,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 2
+    cover: "covers/fabrykantka_aniolkow.jpg"
 - model: books.book
   pk: 9
   fields:
@@ -224,6 +232,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 1
+    cover: "covers/millennium_mezczyzni_ktorzy_nienawidza_kobiet.jpg"
 - model: books.book
   pk: 10
   fields:
@@ -244,6 +253,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 1
+    cover: "covers/millennium_dziewczyna_ktora_igrala_z_ogniem.jpg"
 - model: books.book
   pk: 11
   fields:
@@ -266,6 +276,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 1
+    cover: "covers/millennium_zamek_z_piasku_ktory_runal.jpg"
 - model: books.book
   pk: 12
   fields:
@@ -289,6 +300,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 7
+    cover: "covers/elon_musk_biografia.jpg"
 - model: books.book
   pk: 13
   fields:
@@ -312,6 +324,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 3
+    cover: "covers/gra_o_tron.jpg"
 - model: books.book
   pk: 14
   fields:
@@ -334,6 +347,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 3
+    cover: "covers/starcie_krolow.jpg"
 - model: books.book
   pk: 15
   fields:
@@ -359,6 +373,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 3
+    cover: "covers/nawalnica_mieczy_stal_i_snieg.jpeg"
 - model: books.book
   pk: 16
   fields:
@@ -384,6 +399,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 3
+    cover: "covers/nawalnica_mieczy_krew_i_zloto.jpg"
 - model: books.book
   pk: 17
   fields:
@@ -414,6 +430,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 3
+    cover: "covers/uczta_dla_wron_cienie_smierci.jpg"
 - model: books.book
   pk: 18
   fields:
@@ -444,6 +461,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 3
+    cover: "covers/uczta_dla_wront_siec_spiskow.jpg"
 - model: books.book
   pk: 19
   fields:
@@ -466,10 +484,11 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 3
+    cover: "covers/taniec_ze_smokami_tom_1.jpg"
 - model: books.book
   pk: 20
   fields:
-    title: "Taniec ze smokami. Cz\u0119\u015B\u0107\_1"
+    title: "Taniec ze smokami. Cz\u0119\u015B\u0107\_2"
     subtitle: ""
     published: '2018-01-29T00:43:01Z'
     regular_price: 19.99
@@ -495,6 +514,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 3
+    cover: "covers/taniec_ze_smokami_tom_1.jpg"
 - model: books.book
   pk: 21
   fields:
@@ -519,6 +539,7 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 8
+    cover: "covers/co_nas_nie_zabije.jpg"
 - model: books.book
   pk: 22
   fields:
@@ -546,3 +567,4 @@
     created_at: '2018-01-29T00:43:01Z'
     updated_at: '2018-01-29T00:43:01Z'
     author: 8
+    cover: "covers/mezczyna_ktory_gonil_swoj_cien.jpg"
